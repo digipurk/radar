@@ -7,7 +7,7 @@ import java.awt.event.KeyEvent; // imports library for reading the data from the
 import java.io.IOException;
 
 final static String PORT = "/dev/cu.usbmodem1442201";
-final static boolean DM = true;
+final static boolean DM = false;
 
 Serial port;
 
